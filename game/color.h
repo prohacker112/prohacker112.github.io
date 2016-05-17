@@ -1,0 +1,23 @@
+#define ATTR_BOLD  "\e[1m"
+#define ATTR_RESET "\e[0m"
+
+#define TEXT_BLACK   "\e[30m"
+#define TEXT_RED     "\e[31m"
+#define TEXT_GREEN   "\e[32m"
+#define TEXT_ORANGE  "\e[33m"
+#define TEXT_BLUE    "\e[34m"
+#define TEXT_PURPLE  "\e[35m"
+#define TEXT_CYAN    "\e[36m"
+#define TEXT_WHITE   "\e[37m"
+
+#define BG_BLACK   "\e[40m"
+#define BG_RED     "\e[41m"
+#define BG_GREEN   "\e[42m"
+#define BG_ORANGE  "\e[43m"
+#define BG_BLUE    "\e[44m"
+#define BG_PURPLE  "\e[45m"
+#define BG_CYAN    "\e[46m"
+#define BG_WHITE   "\e[47m"
+
+#define TEXT_LGREEN "\e[1;32m"
+#define TEXT_YELLOW "\e[1;33m"
